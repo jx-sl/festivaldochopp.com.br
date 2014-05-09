@@ -1,0 +1,9 @@
+select, input[type=file] {
+	padding: 13px 60px 13px 13px;
+	background: #3498db;
+	color: #fff;
+	font-size: 24px;
+	border:#FFF;
+	border-radius:3px;
+}
+input[type=file]{background: #cacfd2}

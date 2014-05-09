@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <title>Localiza&ccedil;&atilde;o | 47&deg; Festival do Chopp</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width">
+  <link rel="shortcut icon" href="favicon.png">
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <link rel="stylesheet" href="styles/vendor/normalize.css"/>
+
+  <link rel="stylesheet" href="styles/vendor/font-awesome.css"/>
+
+  <link rel="stylesheet" href="styles/main.css"/>
+</head>
+<body>
+  <header>
+    <div class="header">
+      <div class="wrapper">
+        <!-- ================================= DATE ================================= -->
+        <div class="date date-box">
+          <div class="date-inner-box">
+            <h5>05 e 12 de Abril de 2014</h5>
+          </div>
+        </div> <!-- end date -->
+        <!-- ================================= END DATE ================================= -->
+
+
+        <!-- ================================= ILLUSTRATION ================================= -->
+        <div class="illustration">
+          <img src="images/illustration.png" alt="">
+        </div> <!-- end illustration -->
+        <!-- ================================= END ILLUSTRATION ================================= -->
+
+
+        <!-- ================================= BRAND ================================= -->
+        <div class="brand">
+          <a href="index.php">
+            <img src="images/festival-logo.png" alt="">
+          </a>
+        </div> <!-- end brand -->
+        <!-- ================================= END BRAND ================================= -->
+      </div> <!-- end wrapper -->
+    </div> <!-- end header -->
+
+    <!-- ================================= NAVIGATION ================================= -->
+    <div class="navigation">
+      <div class="wrapper">
+        <nav>
+          <ul class="menu pull-left">
+            <li><a>a festa</a>
+              <ul class="sub-menu">
+                <li><a href="historico.php">hist&oacute;rico</a></li>
+                <li><a href="curiosidades.php">curiosidades</a></li>
+                <li><a href="infraestrutura.php">infraestrutura</a></li>
+                <li><a href="soberanas.php">soberanas</a></li>
+              </ul>
+            </li>
+            <li><a href="noticias.php">not&iacute;cias</a></li>
+            <li><a href="programacao.php">programa&ccedil;&atilde;o</a></li>
+          </ul>
+          <ul class="menu pull-right">
+            <li><a>informa&ccedil;&otilde;es</a>
+              <ul class="sub-menu">
+                <li><a href="excursoes.php">excurs&otilde;es</a></li>
+                <li><a href="dicas.php">dicas</a></li>
+                <li><a href="ingressos.php">ingressos</a></li>
+                <li><a href="localizacao.php">localiza&ccedil;&atilde;o</a></li>
+                <li><a href="hoteisrestaurantes.php">hot&eacute;is e restaurantes</a></li>
+              </ul>
+            </li>
+            <li><a href="galeria.php">galeria</a></li>
+            <li><a href="contato.php">contato</a></li>
+          </ul>
+        </nav>
+      </div> <!-- end wrapper -->
+    </div> <!-- end navigation -->
+    <!-- ================================= END NAVIGATION ================================= -->
+  </header>
+
+  <!-- ================================= MAIN ================================= -->
+  <section class="main">
+    <div class="wrapper">
+      <div class="main-box">
+        <div class="main-inner-box">
+          <div class="row">
+            <div class="col-xs-12">
+              <h2>Localiza&ccedil;&atilde;o</h2>
+
+              <div class="row">
+                <div class="col-xs-6">
+                  <p>Feliz é uma próspera cidade de cerca de 12 mil habitantes, situada entre morros de
+                  natureza exuberante e colonizada a partir de 1846,  principalmente por imigrantes alemães,
+                  que deixaram um legado de grande valor cultural para os habitantes. Esse legado está
+                  presente nos costumes locais: a língua Hunsrück; as construções em estilo enxaimel; as
+                  danças e bandas típicas germânicas; a culinária e suas cucas, chucrute e Einsbein; e a
+                  tradição cervejeira, uma vez que a cidade abrigou uma das primeiras cervejarias do Brasil,
+                  a cervejaria Ruschel, fundada em 1953.</p>
+                  <p>Quanto à origem do nome Feliz, não existe certeza absoluta sobre isso. Histórias contam
+                  que imigrantes navegavam pelas águas do Rio Caí e, ao se abrigarem de uma enchente ou da
+                  fúria de índios selvagens, subindo as margens do rio, teriam dito “Oh, Feliz!” ou “Aqui
+                  seremos felizes!”</p>
+                  <p>Os principais pontos turísticos da cidade são: o Parque Municipal, a Ponte de Ferro,
+                  trazida da Bélgica em 1900 e declarada, recentemente, parte do Patrimônio Histórico e
+                  Cultural do Rio Grande do Sul, o Rio Caí, o Museu e construções antigas e históricas feitas
+                  em estilo enxaimel.</p>
+                </div>
+                <div class="col-xs-6">
+                  <img src="images/feliz.jpg" alt="Feliz" class="image-border">
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-xs-12">
+                  <h5>Confira o mapa</h5>
+                  <div class="image-border">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3474.1978363533763!2d-51.304065449999996!3d-29.452232850000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf7e61632e9610017!2sSOCEF-Sociedade+Cultural+Esportiva+Feliz!5e0!3m2!1sen!2sbr!4v1394402919104" width="1046" height="500" frameborder="0" style="border:0"></iframe>
+                  </div>
+                </div>
+              </div>
+            </div> <!-- end col-xs-12 -->
+          </div> <!-- end row -->
+        </div> <!-- end main-inner-box -->
+      </div> <!-- end main-box -->
+
+      <!-- ================================= SUPPORT ================================= -->
+      <div class="row">
+        <div class="col-xs-2">
+          <p>Apoio:</p>
+          <img src="images/prefeitura.png" alt="Prefeitura">
+        </div>
+        <div class="col-xs-10">
+          <p>Patroc&iacute;nio:</p>
+          <img src="images/patrocinio.png" alt="Patrocinios">
+        </div>
+      </div>
+      <!-- ================================= END SUPPORT ================================= -->
+
+    </div> <!-- end wrapper -->
+  </section> <!-- end main -->
+  <!-- ================================= END MAIN ================================= -->
+
+  <footer>
+    <div class="credits">
+      <!-- ================================= CREDITS ================================= -->
+      <div class="wrapper">
+        <p class="pull-left">Festival do Chopp © 2014 - Todos os direitos reservados</p>
+        <p class="pull-right">Desenvolvido por <a class="publins" href="http://www.publins.com.br/" target="_blank">Publins</a></p>
+      </div> <!-- end wrapper -->
+      <!-- ================================= END CREDITS ================================= -->
+    </div>
+  </footer>
+
+
+  <!-- ================================= JAVASCRIPT LOADS ================================= -->
+  <script src="scripts/vendor/jquery.min.js"></script>
+
+  <script src="scripts/plugins.min.js"></script>
+
+  <script src="scripts/main.min.js"></script>
+  <!-- ================================= END JAVASCRIPT LOADS ================================= -->
+  
+
+  <script>
+
+  </script>
+</body>
+</html>
