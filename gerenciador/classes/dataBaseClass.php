@@ -1,20 +1,14 @@
 <?php
-/*
-$GLOBALS['DB_HOST'] = "localhost";
-$GLOBALS['DB_NAME'] = "festival_gerenciador";
-$GLOBALS['DB_USER'] = "festival_admin";
-$GLOBALS['DB_PASS'] = "admin@festival";
-*/
 if($_SERVER["HTTP_HOST"]=="localhost"){
-	define( "DB_HOST", "localhost");
-	define( "DB_NAME", "festival_gerenciador");
-	define( "DB_USER", "root");
-	define( "DB_PASS", "");
+	define( "DB_HOST", "#");
+	define( "DB_NAME", "#")"
+	define( "DB_USER", "#");
+	define( "DB_PASS", "#");
 }else{
-	define( "DB_HOST", "localhost");
-	define( "DB_NAME", "festival_gerenciador");
-	define( "DB_USER", "festival_admin");
-	define( "DB_PASS", "admin@festival");
+	define( "DB_HOST", "#");
+	define( "DB_NAME", "#");
+	define( "DB_USER", "#");
+	define( "DB_PASS", "#");
 }
 class Database{
 	var $host;
